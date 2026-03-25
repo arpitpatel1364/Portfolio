@@ -18,8 +18,3 @@ A premium, high-performance portfolio featuring advanced CSS animations, custom 
 - **Dark Mode:** A modern, high-end interface with deep shadows and glass surfaces.
 - **Light Mode:** A clean, professional aesthetic optimized for readability.
 - **Terminal Mode(For Developers):** A custom-built CLI environment featuring ASCII panels, live system clocks, and CRT scanline effects.
-## Getting Started
-
-1. **Clone the repo:**
-   ```bash
-   git clone [https://github.com/arpitpatel1364/your-repo-name.git](https://github.com/arpitpatel1364/your-repo-name.git)
