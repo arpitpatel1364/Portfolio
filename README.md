@@ -17,7 +17,7 @@ A premium, high-performance portfolio featuring advanced CSS animations, custom 
 ### 1. Dynamic 3-Way Theme Switcher
 - **Dark Mode:** A modern, high-end interface with deep shadows and glass surfaces.
 - **Light Mode:** A clean, professional aesthetic optimized for readability.
-- **Terminal Mode:** A custom-built CLI environment featuring ASCII panels, live system clocks, and CRT scanline effects.
+- **Terminal Mode(For Developers):** A custom-built CLI environment featuring ASCII panels, live system clocks, and CRT scanline effects.
 
 ### 2. Immersive UI Components
 - **Custom Cursor Engine:** A custom-built pointer that adapts its shape, color, and label based on the element it hovers over.
