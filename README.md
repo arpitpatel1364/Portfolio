@@ -14,7 +14,7 @@ A premium, high-performance portfolio featuring advanced CSS animations, custom 
 
 ## Key Features
 
-### >. Dynamic 3-Way Theme Switcher
+### > Dynamic 3-Way Theme Switcher
 - **Dark Mode:** A modern, high-end interface with deep shadows and glass surfaces.
 - **Light Mode:** A clean, professional aesthetic optimized for readability.
 - **Terminal Mode(For Developers):** A custom-built CLI environment featuring ASCII panels, live system clocks, and CRT scanline effects.
