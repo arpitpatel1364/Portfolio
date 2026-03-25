@@ -3,7 +3,7 @@
 A premium, high-performance portfolio featuring advanced CSS animations, custom interactivity, and a fully functional system-monitoring Terminal interface. Built for recruiters and developers interested in **Backend Architecture** and **AI/ML**.
 
 ## Live Demo
-*(Insert your hosting link here)*
+*arpit-bhojani-portfolio.gt.tc*
 
 ## Tech Stack
 
